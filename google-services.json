@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1077078514383",
+    "firebase_url": "https://vhawk-49201.firebaseio.com",
+    "project_id": "vhawk-49201",
+    "storage_bucket": "vhawk-49201.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077078514383:android:a549a9b73c308e01",
+        "android_client_info": {
+          "package_name": "com.example.saurabh.cityeye"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077078514383-infe9f0ti3qnhei6h0c2l27rm9ani1ji.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.saurabh.cityeye",
+            "certificate_hash": "c0af1839a946176fdcfcd8cdbc32663caebfe120"
+          }
+        },
+        {
+          "client_id": "1077078514383-3kikmifhali51f4gqku8je4appph7jcm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNh_qYyc4o-MOY6YlioOdka2V_T188IVE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077078514383-3kikmifhali51f4gqku8je4appph7jcm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
